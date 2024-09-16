@@ -1,8 +1,5 @@
-li.blurb.user-3605130 .subscriptions,
-li.blurb .subscriptions,
-.user-3605130 dl .subscriptions,
-.stats-index.dashboard .subscriptions,
-dl .subscriptions {
+.series span.divider:after,
+.series span.divider:before {
   display: none !important;
 }
 
@@ -647,3 +644,4 @@ input#site_search {
   max-width: 95%;
   background-color: #111;
   display: inline-block;
+}
